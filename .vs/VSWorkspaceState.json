@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsumeGitHubServices.ApplicationCore",
+    "\\ConsumeGitHubServices.ApplicationCore\\Services",
+    "\\ConsumeGitHubServices.Infrastructure",
+    "\\ConsumeGitHubServices.Infrastructure\\Repository",
+    "\\ConsumeGitHubServices.Tests"
+  ],
+  "SelectedNode": "\\ConsumeGitHubServices.Infrastructure\\Repository\\WebhookRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

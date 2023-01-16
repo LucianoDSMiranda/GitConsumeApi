@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7WaNhcdAOvLM7tiImieVWz5DxxPPMbpYZwlNhJyZNxc=",
+  "Source": "ConsumeGitHubServices.API",
+  "BasePath": "_content/ConsumeGitHubServices.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

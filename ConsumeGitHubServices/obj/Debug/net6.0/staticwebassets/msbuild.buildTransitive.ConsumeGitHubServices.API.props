@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConsumeGitHubServices.API.props" />
+</Project>
